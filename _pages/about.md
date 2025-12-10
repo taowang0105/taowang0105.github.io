@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, my name is Tao Wang, a PhD student at the Institude of Statistics and Big Data, Renmin University of China, advised by [Dr. Cheng Meng](https://cheng-bdal.github.io/).
+Welcome to my page! my name is Tao Wang, a third-year PhD student at the Institude of Statistics and Big Data, Renmin University of China, advised by [Dr. Cheng Meng](https://cheng-bdal.github.io/).
 
 Prior to this, I obtained a BSc degree in mathematics from the Tianjin University.
 
