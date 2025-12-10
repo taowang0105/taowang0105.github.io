@@ -391,16 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-2025-11-i-was-invited-to-attend-the-neurips-2025-offline-sharing-session-in-beijing-and-for-presenting-a-poster",
           title: '(2025-11) I was invited to attend the NeurIPS 2025 offline sharing session in...',
+          description: "",
+          section: "News",},{id: "news-2025-11-i-awarded-an-outstanding-poster-award-at-the-9th-student-forum-of-the-china-society-for-industrial-and-applied-mathematics-csiam",
+          title: '(2025-11) I awarded an Outstanding Poster Award at the 9th Student Forum of...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
