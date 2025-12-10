@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-11-22
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+(2025-11) I was invited to attend the [NeurIPS 2025 offline sharing session](https://mp.weixin.qq.com/s/DaLrbOeDIacQ-XAorbPVGA) in Beijing and for presenting a poster.
