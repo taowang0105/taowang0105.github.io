@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Expliring secrets behind data</a>.
+subtitle: <a href='#'>Exploring secrets behind data</a>.
 
 profile:
   align: right
