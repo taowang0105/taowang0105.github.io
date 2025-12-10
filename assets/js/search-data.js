@@ -457,14 +457,14 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/taowang0105", "_blank");
+          window.open("https://github.com/https://github.com/taowang0105", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0009-0004-4584-6285", "_blank");
+          window.open("https://orcid.org/https://orcid.org/0009-0004-4584-6285", "_blank");
         },
       },{
         id: 'social-scholar',
