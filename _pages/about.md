@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>wang_tao [at] ruc.edu.cn</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,4 +29,4 @@ Hi, my name is Tao Wang, a PhD student at the Institude of Statistics and Big Da
 
 Prior to this, I obtained a BSc degree in mathematics from the Tianjin University.
 
-My current research focuses on non-parametric statistics, computational optimal transport and its applications in AI, 3D modeling, AI interpretability.
+My current research focuses on computational optimal transport and its applications in AI, 3D modeling, non-parametric statistics.
