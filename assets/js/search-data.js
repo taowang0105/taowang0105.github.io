@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-win-the-huawei-challenge-solving-114th-spark-award-as-a-member-of-dr-cheng-meng-s-team",
+          title: 'I win the Huawei “Challenge Solving” 114th Spark Award as a member of...',
           description: "",
           section: "News",},{id: "news-2025-11-i-awarded-an-outstanding-poster-award-at-the-9th-student-forum-of-the-china-society-for-industrial-and-applied-mathematics-csiam",
           title: '(2025-11) I awarded an Outstanding Poster Award at the 9th Student Forum of...',
