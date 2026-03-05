@@ -29,6 +29,6 @@ Welcome to my page! My name is Tao Wang, a third-year PhD student at the Institu
 
 Prior to this, I obtained a BSc degree in mathematics from the Tianjin University.
 
-My current research focuses on computational <a href='#'>optimal transport</a> and its applications in AI, <a href='#'>3D modeling</a>, <a href='#'>non-parametric statistics</a>.
+My current research focuses on `computational optimal transport and its applications in AI`, `3D modeling`, `non-parametric statistics`.
 
 If you are interested in my research, feel free to drop me an email!
