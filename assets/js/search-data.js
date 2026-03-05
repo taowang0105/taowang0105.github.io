@@ -401,7 +401,7 @@ ninja.data = [{
           title: 'I was invited to attend the NeurIPS 2025 offline sharing session in Beijing...',
           description: "",
           section: "News",},{id: "news-new-preprint-on-distribution-valued-response-regression-task",
-          title: 'New preprint on distribution-valued response regression task.',
+          title: 'New Preprint on distribution-valued response regression task.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
