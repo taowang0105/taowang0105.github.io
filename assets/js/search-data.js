@@ -456,6 +456,13 @@ ninja.data = [{
           window.open("https://arxiv.org/a/wang_t_16.html", "_blank");
         },
       },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%77%61%6E%67_%74%61%6F@%72%75%63.%65%64%75.%63%6E", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
