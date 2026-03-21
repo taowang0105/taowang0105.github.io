@@ -453,7 +453,7 @@ ninja.data = [{
         title: 'arXiv',
         section: 'Socials',
         handler: () => {
-          window.open("https://arxiv.org/a/http://arxiv.org/a/wang_t_16.html", "_blank");
+          window.open("https://arxiv.org/a/wang_t_16.html", "_blank");
         },
       },{
         id: 'social-email',
