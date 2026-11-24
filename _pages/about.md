@@ -7,7 +7,6 @@ subtitle: <a href='#'>Exploring secrets behind data</a>.
 profile:
   align: right
   image: prof_pic_2026.jpg
-  image_crop: true
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>wang_tao [at] ruc.edu.cn</p>

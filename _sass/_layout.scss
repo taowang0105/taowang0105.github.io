@@ -36,24 +36,6 @@ body.sticky-bottom-footer {
   img {
     width: 100%;
   }
-
-  .profile-portrait {
-    position: relative;
-    aspect-ratio: 3 / 4;
-    overflow: hidden;
-
-    img {
-      // Frame the original 5504 x 8256 portrait at x=1352, y=1100,
-      // with a 2800 x 3733 crop; uniform scaling preserves proportions.
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 196.571429%;
-      max-width: none;
-      height: auto;
-      transform: translate(-24.563953%, -13.323643%);
-    }
-  }
 }
 
 // TODO: redefine content layout.
